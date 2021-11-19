@@ -7,6 +7,6 @@ while(temp>0);
 	temp=temp//10
 print("reverse of given number is=%d"%reverse)
 if(n==reverse):
-	print(%d is a palindrome number"%number)
+	print(%d is a pal number"%number)
 else:
 	print("%d is not a palindrome number"%number)
